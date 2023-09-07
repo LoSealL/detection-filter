@@ -1,4 +1,4 @@
-# DF - Detection Filter
+# DetF - Detection Filter
 A mathematical toolbox to smooth the raw output from deep-learning detectors.
 
 ### Spatial Filter
@@ -8,5 +8,5 @@ A mathematical toolbox to smooth the raw output from deep-learning detectors.
 ## Installation
 
 ```
-pip install df
+pip install detf
 ```
