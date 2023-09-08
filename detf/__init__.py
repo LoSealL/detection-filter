@@ -7,4 +7,4 @@ Copyright Wenyi Tang 2023
 A mathematical toolbox to smooth the raw output from deep-learning detectors.
 """
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
